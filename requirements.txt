@@ -1,1 +1,1 @@
-hades-nlp
+hades-nlp==0.1.2
